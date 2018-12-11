@@ -1,7 +1,7 @@
 {
-  "name": "react_webpack_starter_env",
+  "name": "HumanBeins",
   "version": "1.0.0",
-  "description": "Boilerplate for React apps",
+  "description": "Portfolio App for HumanBeIns",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
